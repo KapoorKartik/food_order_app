@@ -1,0 +1,14 @@
+#nav {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding : 5px ;
+}
+a > button {
+    width : 120px;
+    height : 40px;
+    border-radius: 20px;
+    background : teal;
+    border: 1px solid black;
+    cursor : pointer;
+}
